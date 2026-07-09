@@ -21,5 +21,8 @@ This system processes video input to detect and track specific objects using the
 ## 📋 Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/CodeAlpha-Object-Detection-Tracking.git](https://github.com/YourUsername/CodeAlpha-Object-Detection-Tracking.git)
-   cd CodeAlpha-Object-Detection-Tracking
+   ## 📋 Installation & Usage
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Timnit21/CodeAlpha_ObjectDetectionandTracking.git](https://github.com/Timnit21/CodeAlpha_ObjectDetectionandTracking.git)
+   cd CodeAlpha_ObjectDetectionandTracking
